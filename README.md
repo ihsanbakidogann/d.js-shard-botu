@@ -1,5 +1,3 @@
-d.js-shard-botu
-
 Kolay bir şekilde botunuz da shard açmanızı sağlayan bot.
 
 Gereksinimler
