@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-shard-bot",
+  "version": "1.0.0",
+  "description": "discord.js üzerinden kolay bir şekilde shard açmaya yarayan bot.",
+  "main": "shard.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node shard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihsanbakidogann/d.js-shard-botu.git"
+  },
+  "author": "nesmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihsanbakidogann/d.js-shard-botu/issues"
+  },
+  "homepage": "https://github.com/ihsanbakidogann/d.js-shard-botu#readme"
+}
