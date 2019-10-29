@@ -1,6 +1,6 @@
 {
   "name": "discordjs-shard-bot",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "discord.js üzerinden kolay bir şekilde shard açmaya yarayan bot.",
   "main": "shard.js",
   "dependencies": {
